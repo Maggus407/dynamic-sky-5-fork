@@ -1,0 +1,20 @@
+schema_version = "1.0.0"
+
+id = "dynamic_sky_5_fork"
+version = "1.0.7"
+name = "Dynamic Sky 5 Fork"
+tagline = "Fork of Dynamic Sky updated for Blender 5.0+"
+maintainer = "Markus Kauschmann"
+type = "add-on"
+
+tags = ["Lighting"]
+blender_version_min = "5.0.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2015 Pratik Solanki (Draguu)",
+  "2026 Markus Kauschmann",
+]
